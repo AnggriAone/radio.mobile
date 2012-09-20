@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="no_internet">You are currently not connected to the internet.</string>
+<string name="ok">OK</string>
+
+<string name="click_play_to_start">Tap play to start</string>
+<string name="connecting_busy">Connecting...</string>
+<string name="cnx_issues">Unable to connect to the streaming server. Please try again.</string>
+
+<string name="hello">Welcome to RadioMobile</string>
+<string name="app_name">RadioMobile</string>
+
+<string name="proviso">Please note that although low on consumption, this app may incur data charges and you advised to have a data bundle in place with your network.</string>
+</resources>
