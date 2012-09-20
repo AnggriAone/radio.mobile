@@ -14,3 +14,12 @@ android/radiomobile/.metadata
 android/radiomobile/.settings
 
 #iOS
+bb/.metadata
+bb/radiomobile/.classpath
+bb/radiomobile/bin
+bb/radiomobile/deliverables
+bb/radiomobile/.locale_interfaces
+bb/radiomobile/.project
+bb/radiomobile/.settings
+
+bb/radiomobile/.preprocessed/co/za/bryanallott/radiomobile/bb/lib/ui/ListStyleButtonField.java
